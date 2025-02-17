@@ -1,0 +1,1056 @@
+[
+  1,
+  [
+    "29tX4DjuBAWYP4YUQsDyeo"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "jy_hlg",
+      "\r\njy_hlg.png\r\nsize: 542,218\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nhlg_body\r\n  rotate: true\r\n  xy: 405, 35\r\n  size: 181, 103\r\n  orig: 181, 103\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_eye1\r\n  rotate: true\r\n  xy: 510, 147\r\n  size: 69, 30\r\n  orig: 69, 30\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_eye2\r\n  rotate: true\r\n  xy: 510, 2\r\n  size: 66, 23\r\n  orig: 66, 23\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_mm1\r\n  rotate: true\r\n  xy: 510, 70\r\n  size: 75, 23\r\n  orig: 75, 23\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_tou\r\n  rotate: true\r\n  xy: 209, 4\r\n  size: 212, 194\r\n  orig: 212, 194\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_tou2\r\n  rotate: true\r\n  xy: 2, 4\r\n  size: 212, 205\r\n  orig: 212, 205\r\n  offset: 0, 0\r\n  index: -1\r\nhlg_zui2\r\n  rotate: true\r\n  xy: 487, 3\r\n  size: 30, 15\r\n  orig: 30, 15\r\n  offset: 0, 0\r\n  index: -1\r\ntouying\r\n  rotate: false\r\n  xy: 405, 5\r\n  size: 80, 28\r\n  orig: 80, 28\r\n  offset: 0, 0\r\n  index: -1\r\n",
+      [
+        "jy_hlg.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "n1zdspuAndqLjws6I9MTYG6nH48",
+          "spine": "3.8.75",
+          "x": -102.71,
+          "y": -100.77,
+          "width": 366.32,
+          "height": 197.78,
+          "images": "./images/",
+          "audio": "E:/twm/切个大菠萝"
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "xigua",
+            "parent": "root"
+          },
+          {
+            "name": "xigua2",
+            "parent": "xigua",
+            "x": -7.54,
+            "y": -29.81
+          },
+          {
+            "name": "xigua3",
+            "parent": "xigua2",
+            "length": 87.39,
+            "rotation": 88.53,
+            "x": 2.24,
+            "y": 7.28,
+            "scaleX": 1.73,
+            "scaleY": 1.73
+          },
+          {
+            "name": "xigua5",
+            "parent": "xigua3",
+            "length": 60.38,
+            "rotation": -2.47,
+            "x": 1.78,
+            "y": 9.64
+          },
+          {
+            "name": "xigua4",
+            "parent": "xigua5",
+            "rotation": 2.47,
+            "x": 34.04,
+            "y": 10.84,
+            "color": "abe323ff"
+          },
+          {
+            "name": "xigua7",
+            "parent": "xigua5",
+            "rotation": 2.47,
+            "x": 11.62,
+            "y": 8.2
+          },
+          {
+            "name": "bone",
+            "parent": "root",
+            "x": -4.58,
+            "y": -26
+          },
+          {
+            "name": "xigua6",
+            "parent": "xigua3",
+            "length": 37.69,
+            "rotation": 175.98,
+            "x": 81.98,
+            "y": -1.29
+          },
+          {
+            "name": "xigua12",
+            "parent": "xigua6",
+            "x": 5.95,
+            "y": -0.8
+          },
+          {
+            "name": "xigua13",
+            "parent": "xigua7",
+            "length": 39.44,
+            "rotation": 82.48,
+            "x": -0.31,
+            "y": -0.76,
+            "scaleX": 1.7869,
+            "scaleY": 1.7869,
+            "transform": "noScale"
+          },
+          {
+            "name": "xigua14",
+            "parent": "xigua5",
+            "rotation": 2.47,
+            "x": 27.61,
+            "y": 16.47,
+            "color": "abe323ff"
+          },
+          {
+            "name": "xigua16",
+            "parent": "xigua6",
+            "rotation": -175.98,
+            "x": 46.93,
+            "y": -17.18,
+            "color": "abe323ff"
+          }
+        ],
+        "slots": [
+          {
+            "name": "touying",
+            "bone": "bone",
+            "attachment": "touying"
+          },
+          {
+            "name": "xigua5",
+            "bone": "xigua7"
+          },
+          {
+            "name": "hlg_body",
+            "bone": "xigua5",
+            "attachment": "hlg_body2"
+          },
+          {
+            "name": "hlg_tou",
+            "bone": "xigua6",
+            "attachment": "hlg_tou3"
+          },
+          {
+            "name": "hlg_tou2",
+            "bone": "xigua6"
+          },
+          {
+            "name": "hlg_eye1",
+            "bone": "xigua4",
+            "attachment": "hlg_eye4"
+          },
+          {
+            "name": "hlg_mm1",
+            "bone": "xigua16",
+            "attachment": "hlg_mm2"
+          },
+          {
+            "name": "hlg_zui2",
+            "bone": "xigua7",
+            "attachment": "hlg_zui3"
+          }
+        ],
+        "transform": [
+          {
+            "name": "xigua42",
+            "target": "xigua4",
+            "x": -6.29,
+            "y": 5.77,
+            "rotateMix": 0,
+            "translateMix": 0.3,
+            "scaleMix": 0,
+            "shearMix": 0,
+            "bones": [
+              "xigua14"
+            ]
+          },
+          {
+            "name": "xigua143",
+            "order": 1,
+            "target": "xigua14",
+            "x": -16.33,
+            "y": -7.57,
+            "rotateMix": 0,
+            "translateMix": 0.4,
+            "scaleMix": 0,
+            "shearMix": 0,
+            "bones": [
+              "xigua7"
+            ]
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "hlg_zui2": {
+                "hlg_zui3": {
+                  "type": "mesh",
+                  "path": "hlg_zui2",
+                  "hull": 4,
+                  "width": 30,
+                  "height": 15,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -1.32,
+                    -2.8,
+                    -1.76,
+                    14.53,
+                    6.9,
+                    14.75,
+                    7.35,
+                    -2.58
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "hlg_tou": {
+                "hlg_tou3": {
+                  "type": "mesh",
+                  "path": "hlg_tou",
+                  "hull": 4,
+                  "width": 212,
+                  "height": 194,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    43.99,
+                    65.17,
+                    55.72,
+                    -56.81,
+                    -55.91,
+                    -67.54,
+                    -67.64,
+                    54.44
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                },
+                "hlg_tou4": {
+                  "type": "mesh",
+                  "path": "hlg_tou2",
+                  "hull": 4,
+                  "width": 212,
+                  "height": 205,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    49.06,
+                    66.82,
+                    60.78,
+                    -55.16,
+                    -57.17,
+                    -66.5,
+                    -68.9,
+                    55.48
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "touying": {
+                "touying": {
+                  "type": "mesh",
+                  "hull": 4,
+                  "width": 80,
+                  "height": 28,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    62.47,
+                    -23.84,
+                    -62.2,
+                    -23.84,
+                    -62.2,
+                    19.79,
+                    62.47,
+                    19.79
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "hlg_mm1": {
+                "hlg_mm2": {
+                  "type": "mesh",
+                  "path": "hlg_mm1",
+                  "hull": 4,
+                  "width": 75,
+                  "height": 23,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    2.89,
+                    -22.56,
+                    0.43,
+                    20.72,
+                    13.71,
+                    21.47,
+                    16.17,
+                    -21.81
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "hlg_eye1": {
+                "hlg_eye3": {
+                  "type": "mesh",
+                  "path": "hlg_eye1",
+                  "hull": 4,
+                  "width": 69,
+                  "height": 30,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -15.24,
+                    -19.78,
+                    -16.34,
+                    23.2,
+                    2.9,
+                    23.69,
+                    4,
+                    -19.29
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                },
+                "hlg_eye4": {
+                  "path": "hlg_eye2",
+                  "x": -4.67,
+                  "y": 1.28,
+                  "scaleX": 0.6103,
+                  "scaleY": 0.6103,
+                  "rotation": -88.53,
+                  "width": 66,
+                  "height": 23
+                }
+              },
+              "hlg_body": {
+                "hlg_body2": {
+                  "type": "mesh",
+                  "path": "hlg_body",
+                  "hull": 4,
+                  "width": 181,
+                  "height": 103,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -5.8,
+                    -61.47,
+                    -12.99,
+                    42.9,
+                    46.4,
+                    46.99,
+                    53.59,
+                    -57.38
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "name": "huolongguo"
+          }
+        ],
+        "animations": {
+          "die": {
+            "slots": {
+              "hlg_eye1": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "hlg_eye3"
+                  }
+                ]
+              },
+              "hlg_body": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "hlg_tou": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "hlg_tou4"
+                  }
+                ]
+              },
+              "touying": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "hlg_tou2": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "xigua5": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "hlg_zui2": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "hlg_mm1": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "xigua5": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "angle": -3.16,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2333,
+                    "angle": 3.21,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ],
+                "shear": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": -5.47,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2333,
+                    "x": 4.92,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ]
+              },
+              "xigua6": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "angle": -91.56,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.3667,
+                    "angle": 179.36,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667,
+                    "angle": -174.77
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": 11.12,
+                    "y": -80.28,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.3667,
+                    "x": -61.65,
+                    "y": -90.67
+                  }
+                ]
+              }
+            }
+          },
+          "play": {
+            "slots": {
+              "hlg_eye1": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "hlg_body": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "hlg_tou": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "hlg_tou2": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "xigua5": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "hlg_zui2": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              },
+              "hlg_mm1": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ff0000ff"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "xigua3": {
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 0.927,
+                    "y": 1.091,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4333,
+                    "x": 1.091,
+                    "y": 0.945,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ]
+              }
+            }
+          },
+          "tiao": {
+            "bones": {
+              "xigua3": {
+                "translate": [
+                  {
+                    "time": 0.1667,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "y": 9.37,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "y": 17.55,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 0.946,
+                    "y": 1.018,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 1.053,
+                    "y": 0.973,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4
+                  }
+                ]
+              },
+              "xigua4": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": -3.77,
+                    "y": -0.09,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 9.31,
+                    "y": 0.26,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 6.24,
+                    "y": 0.16,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua7": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.1667,
+                    "x": 1.261,
+                    "y": 1.261
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 0.9,
+                    "y": 0.9
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 0.733,
+                    "y": 0.733
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "bone": {
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 1.095,
+                    "y": 1.095,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 0.769,
+                    "y": 0.769,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 0.596,
+                    "y": 0.596,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua16": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": -0.28,
+                    "y": 0.24,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": -10.66,
+                    "y": -1.7,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -10.26,
+                    "y": -1.43,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

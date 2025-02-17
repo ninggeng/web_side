@@ -1,0 +1,42 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "UltSkillConfig",
+      {
+        "hero_ultskill_1": {
+          "id": "hero_ultskill_1",
+          "class": "UltSkill0",
+          "buff": "heroSupper|heroSupperCirt",
+          "duration": 8
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

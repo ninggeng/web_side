@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "09j33ERuNOXqydyu+TLM0K"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "taidao",
+      "rect": [
+        0,
+        0,
+        108,
+        149
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        109,
+        149
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

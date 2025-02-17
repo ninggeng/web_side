@@ -1,0 +1,62 @@
+
+jy_lxg.png
+size: 624,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingxigua_2
+  rotate: false
+  xy: 511, 238
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+bingxigua_body
+  rotate: true
+  xy: 370, 189
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+bingxigua_eye
+  rotate: true
+  xy: 511, 277
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+bingxigua_texiao
+  rotate: true
+  xy: 2, 2
+  size: 375, 366
+  orig: 375, 366
+  offset: 0, 0
+  index: -1
+bingxigua_tou
+  rotate: true
+  xy: 370, 2
+  size: 185, 125
+  orig: 185, 125
+  offset: 0, 0
+  index: -1
+bingxigua_tou2
+  rotate: true
+  xy: 497, 2
+  size: 185, 125
+  orig: 185, 125
+  offset: 0, 0
+  index: -1
+bingxigua_zui
+  rotate: false
+  xy: 511, 190
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 511, 208
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+pt_shiliu.png
+size: 84,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_shiliu
+  rotate: false
+  xy: 2, 69
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+pt_shiliu2
+  rotate: false
+  xy: 2, 2
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+pt_shiliu3
+  rotate: false
+  xy: 18, 234
+  size: 47, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+pt_shiliu4
+  rotate: false
+  xy: 2, 212
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+pt_shiliu5
+  rotate: false
+  xy: 2, 128
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 182
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+xigua5
+  rotate: false
+  xy: 2, 244
+  size: 14, 7
+  orig: 16, 9
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+pt_juzi.png
+size: 90,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_juzi_body
+  rotate: false
+  xy: 2, 68
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+pt_juzi_eye1
+  rotate: false
+  xy: 2, 195
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+pt_juzi_eye2
+  rotate: false
+  xy: 43, 194
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+pt_juzi_tou1
+  rotate: false
+  xy: 2, 122
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+pt_juzi_tou2
+  rotate: false
+  xy: 2, 2
+  size: 81, 64
+  orig: 82, 65
+  offset: 1, 1
+  index: -1
+touying
+  rotate: false
+  xy: 2, 164
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

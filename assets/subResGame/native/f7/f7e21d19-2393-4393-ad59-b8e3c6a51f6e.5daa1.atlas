@@ -1,0 +1,27 @@
+
+shuye2.png
+size: 137,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuye1
+  rotate: true
+  xy: 107, 7
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: true
+  xy: 55, 7
+  size: 31, 50
+  orig: 33, 50
+  offset: 1, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 2, 2
+  size: 51, 36
+  orig: 52, 41
+  offset: 0, 4
+  index: -1

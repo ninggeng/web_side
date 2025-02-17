@@ -1,0 +1,13 @@
+
+yun.png
+size: 654,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun
+  rotate: false
+  xy: 2, 2
+  size: 650, 481
+  orig: 650, 481
+  offset: 0, 0
+  index: -1

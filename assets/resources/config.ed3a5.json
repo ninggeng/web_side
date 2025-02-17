@@ -1,0 +1,94 @@
+{
+    "paths": {
+        "7at0yQ751LE7wpZkCrfsAY": [
+            "BuffConfig",
+            "cc.JsonAsset"
+        ],
+        "74vxBuMLNBKLl+9UCUVTQo": [
+            "CharacterConfig",
+            "cc.JsonAsset"
+        ],
+        "efUlF8+1NAWrsBPHJV/uFu": [
+            "CharacterLevelConfig",
+            "cc.JsonAsset"
+        ],
+        "16D+OGBexP1os7DWED+Ry+": [
+            "EndlessConfig",
+            "cc.JsonAsset"
+        ],
+        "01dBqDWy5J54eiyF7Xp53N": [
+            "GameConfig",
+            "cc.JsonAsset"
+        ],
+        "a3m7Bkj0tOZa9irLaaCa3X": [
+            "Sound/anniu",
+            "cc.AudioClip"
+        ],
+        "ecGom79kZPaJwwW2ovGaU9": [
+            "TcoConfig",
+            "cc.JsonAsset"
+        ],
+        "caESZe0cJJ2Jl0Xc7EW8ux": [
+            "Test",
+            "cc.JsonAsset"
+        ],
+        "a1+5KF1fdMMJV4rXdNLAnu": [
+            "UltSkillConfig",
+            "cc.JsonAsset"
+        ],
+        "29wgGBMlFNwL7RtZEV0kFE": [
+            "WeaponConfig",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "01dBqDWy5J54eiyF7Xp53N",
+        "16D+OGBexP1os7DWED+Ry+",
+        "29wgGBMlFNwL7RtZEV0kFE",
+        "74vxBuMLNBKLl+9UCUVTQo",
+        "7at0yQ751LE7wpZkCrfsAY",
+        "a1+5KF1fdMMJV4rXdNLAnu",
+        "a3m7Bkj0tOZa9irLaaCa3X",
+        "caESZe0cJJ2Jl0Xc7EW8ux",
+        "ecGom79kZPaJwwW2ovGaU9",
+        "efUlF8+1NAWrsBPHJV/uFu"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "resources",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "01dBqDWy5J54eiyF7Xp53N",
+            "e8a53",
+            "16D+OGBexP1os7DWED+Ry+",
+            "ecaca",
+            "29wgGBMlFNwL7RtZEV0kFE",
+            "8fc7b",
+            "74vxBuMLNBKLl+9UCUVTQo",
+            "07cc3",
+            "7at0yQ751LE7wpZkCrfsAY",
+            "fc718",
+            "a1+5KF1fdMMJV4rXdNLAnu",
+            "eb28b",
+            "a3m7Bkj0tOZa9irLaaCa3X",
+            "e6502",
+            "caESZe0cJJ2Jl0Xc7EW8ux",
+            "54126",
+            "ecGom79kZPaJwwW2ovGaU9",
+            "9e836",
+            "efUlF8+1NAWrsBPHJV/uFu",
+            "37bc8"
+        ],
+        "native": [
+            "a3m7Bkj0tOZa9irLaaCa3X",
+            "389d8"
+        ]
+    }
+}

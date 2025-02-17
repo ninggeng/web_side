@@ -1,0 +1,48 @@
+
+pt_caomei.png
+size: 205,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_caomei1
+  rotate: true
+  xy: 179, 39
+  size: 36, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+pt_caomei2
+  rotate: true
+  xy: 193, 41
+  size: 34, 10
+  orig: 35, 10
+  offset: 1, 0
+  index: -1
+pt_caomei3
+  rotate: false
+  xy: 2, 6
+  size: 52, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+pt_caomei4
+  rotate: false
+  xy: 56, 6
+  size: 49, 69
+  orig: 49, 70
+  offset: 0, 1
+  index: -1
+pt_caomei5
+  rotate: true
+  xy: 107, 32
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 107, 2
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

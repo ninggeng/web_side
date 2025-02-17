@@ -1,0 +1,118 @@
+
+hudun.png
+size: 1300,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 442, 50
+  size: 180, 180
+  orig: 182, 182
+  offset: 1, 1
+  index: -1
+a1
+  rotate: false
+  xy: 903, 112
+  size: 82, 118
+  orig: 84, 124
+  offset: 1, 2
+  index: -1
+a2
+  rotate: true
+  xy: 806, 128
+  size: 102, 95
+  orig: 108, 97
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 1023, 107
+  size: 66, 123
+  orig: 68, 126
+  offset: 1, 1
+  index: -1
+a4
+  rotate: false
+  xy: 1231, 115
+  size: 48, 85
+  orig: 51, 88
+  offset: 2, 1
+  index: -1
+a5
+  rotate: false
+  xy: 1148, 9
+  size: 75, 96
+  orig: 81, 99
+  offset: 5, 2
+  index: -1
+a6
+  rotate: false
+  xy: 1091, 107
+  size: 68, 115
+  orig: 70, 123
+  offset: 1, 4
+  index: -1
+b
+  rotate: false
+  xy: 624, 50
+  size: 180, 180
+  orig: 182, 182
+  offset: 1, 1
+  index: -1
+b1
+  rotate: true
+  xy: 903, 28
+  size: 82, 118
+  orig: 84, 124
+  offset: 1, 2
+  index: -1
+b2
+  rotate: true
+  xy: 806, 24
+  size: 102, 95
+  orig: 108, 97
+  offset: 1, 1
+  index: -1
+b3
+  rotate: true
+  xy: 1023, 39
+  size: 66, 123
+  orig: 68, 126
+  offset: 1, 1
+  index: -1
+b4
+  rotate: true
+  xy: 442, 0
+  size: 48, 85
+  orig: 51, 88
+  offset: 2, 1
+  index: -1
+b5
+  rotate: false
+  xy: 1225, 17
+  size: 75, 96
+  orig: 81, 99
+  offset: 5, 2
+  index: -1
+b6
+  rotate: false
+  xy: 1161, 115
+  size: 68, 115
+  orig: 70, 123
+  offset: 1, 4
+  index: -1
+glow_1047
+  rotate: false
+  xy: 236, 26
+  size: 204, 204
+  orig: 256, 256
+  offset: 26, 26
+  index: -1
+quan01_00000
+  rotate: false
+  xy: 0, 2
+  size: 234, 228
+  orig: 300, 300
+  offset: 33, 36
+  index: -1

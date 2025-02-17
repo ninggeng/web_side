@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6b5KIUmSFHurNFlH+EkGgC"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "效果图",
+      "rect": [
+        0,
+        0,
+        545,
+        1202
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        545,
+        1202
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

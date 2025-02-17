@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c98CrDQ5lBB5UJxAHYRBSo"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "yun",
+      "rect": [
+        2,
+        120,
+        650,
+        363
+      ],
+      "offset": [
+        0,
+        -59
+      ],
+      "originalSize": [
+        654,
+        485
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

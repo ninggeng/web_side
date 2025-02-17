@@ -1,0 +1,62 @@
+
+jy_hlg.png
+size: 542,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlg_body
+  rotate: true
+  xy: 405, 35
+  size: 181, 103
+  orig: 181, 103
+  offset: 0, 0
+  index: -1
+hlg_eye1
+  rotate: true
+  xy: 510, 147
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+hlg_eye2
+  rotate: true
+  xy: 510, 2
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+hlg_mm1
+  rotate: true
+  xy: 510, 70
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+hlg_tou
+  rotate: true
+  xy: 209, 4
+  size: 212, 194
+  orig: 212, 194
+  offset: 0, 0
+  index: -1
+hlg_tou2
+  rotate: true
+  xy: 2, 4
+  size: 212, 205
+  orig: 212, 205
+  offset: 0, 0
+  index: -1
+hlg_zui2
+  rotate: true
+  xy: 487, 3
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 405, 5
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

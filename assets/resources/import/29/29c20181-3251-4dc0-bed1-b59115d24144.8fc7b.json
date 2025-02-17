@@ -1,0 +1,99 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "WeaponConfig",
+      [
+        {
+          "id": "1",
+          "icon": "d_1",
+          "name": "初始之刃",
+          "desc": "",
+          "type": 0,
+          "money": 1000
+        },
+        {
+          "id": "2",
+          "icon": "d_2",
+          "name": "红月之刃",
+          "desc": "攻击+20",
+          "desc2": "",
+          "type": 0,
+          "monster": "",
+          "money": 15000,
+          "buff": "Weaponattack_2"
+        },
+        {
+          "id": "3",
+          "icon": "d_3",
+          "name": "橙子刀",
+          "desc": "攻击+30",
+          "desc2": "击杀精英橙子解锁",
+          "type": 1,
+          "monster": "jingyingchengzi",
+          "money": 0,
+          "buff": "Weaponattack_3"
+        },
+        {
+          "id": "4",
+          "icon": "d_4",
+          "name": "杨桃刀",
+          "desc": "攻击+40",
+          "desc2": "击杀精英杨桃解锁",
+          "type": 1,
+          "monster": "jingyingyangtao",
+          "money": 0,
+          "buff": "Weaponattack_4"
+        },
+        {
+          "id": "5",
+          "icon": "d_5",
+          "name": "火龙果刀",
+          "desc": "攻击+50",
+          "desc2": "击杀精英火龙果解锁",
+          "type": 1,
+          "monster": "jingyinghuolongguo",
+          "money": 0,
+          "buff": "Weaponattack_5"
+        },
+        {
+          "id": "6",
+          "icon": "d_6",
+          "name": "菠萝刀",
+          "desc": "攻击+60",
+          "desc2": "击杀BOSS菠萝解锁",
+          "type": 1,
+          "monster": "bossboluo",
+          "money": 0,
+          "buff": "Weaponattack_6"
+        }
+      ]
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

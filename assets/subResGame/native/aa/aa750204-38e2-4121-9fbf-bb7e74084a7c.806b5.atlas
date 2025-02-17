@@ -1,0 +1,48 @@
+
+pt_pingg.png
+size: 82,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_pg_body
+  rotate: false
+  xy: 2, 179
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+pt_pg_eye
+  rotate: true
+  xy: 58, 131
+  size: 46, 22
+  orig: 48, 22
+  offset: 1, 0
+  index: -1
+pt_pg_eye2
+  rotate: false
+  xy: 2, 2
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+pt_pg_tou
+  rotate: true
+  xy: 2, 20
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+pt_pg_tou2
+  rotate: true
+  xy: 2, 99
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 49, 17
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

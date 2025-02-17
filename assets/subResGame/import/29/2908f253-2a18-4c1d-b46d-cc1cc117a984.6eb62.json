@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b9WcZg7w1Awp1NHeAcoyyx"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "huolongg_huo",
+      "rect": [
+        2,
+        2,
+        611,
+        376
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        615,
+        380
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

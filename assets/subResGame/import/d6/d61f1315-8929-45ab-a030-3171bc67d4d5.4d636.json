@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "78x7sFtsNNXKnjMCwmKb8A"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jy_lxg",
+      "rect": [
+        3,
+        3,
+        618,
+        374
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        624,
+        379
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

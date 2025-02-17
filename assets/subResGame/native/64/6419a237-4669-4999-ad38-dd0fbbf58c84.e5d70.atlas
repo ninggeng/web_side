@@ -1,0 +1,48 @@
+
+pt_mihoutao.png
+size: 105,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_minghoutao1
+  rotate: true
+  xy: 89, 27
+  size: 44, 14
+  orig: 45, 15
+  offset: 0, 1
+  index: -1
+pt_minghoutao2
+  rotate: true
+  xy: 70, 23
+  size: 48, 17
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+pt_minghoutao3
+  rotate: false
+  xy: 2, 43
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+pt_minghoutao4
+  rotate: false
+  xy: 2, 2
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+pt_minghoutao5
+  rotate: false
+  xy: 2, 91
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 74, 73
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+主页动画(1).png
+size: 677,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhi_hong
+  rotate: false
+  xy: 269, 106
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 138
+  size: 406, 54
+  orig: 410, 57
+  offset: 2, 1
+  index: -1
+xigua1
+  rotate: false
+  xy: 410, 2
+  size: 265, 190
+  orig: 270, 193
+  offset: 2, 1
+  index: -1
+xigua2
+  rotate: false
+  xy: 2, 13
+  size: 265, 123
+  orig: 270, 126
+  offset: 1, 2
+  index: -1

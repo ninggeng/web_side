@@ -1,0 +1,310 @@
+[
+  1,
+  [
+    "09j33ERuNOXqydyu+TLM0K"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "taidao",
+      "\r\ntaidao.png\r\nsize: 109,149\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n2\r\n  rotate: true\r\n  xy: 0, 12\r\n  size: 100, 16\r\n  orig: 102, 18\r\n  offset: 1, 1\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 78, 0\r\n  size: 30, 149\r\n  orig: 33, 151\r\n  offset: 2, 1\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 0, 2\r\n  size: 77, 147\r\n  orig: 116, 147\r\n  offset: 39, 0\r\n  index: -1\r\n",
+      [
+        "taidao.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "0vOo/LMwE40e6DKj7Q3ooY786gw",
+          "spine": "3.8.99",
+          "x": -16.5,
+          "y": 1731.59,
+          "width": 33,
+          "height": 198.71,
+          "images": "./images/",
+          "audio": ""
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "3",
+            "parent": "root",
+            "x": 1.3,
+            "y": 1801.27
+          },
+          {
+            "name": "2",
+            "parent": "3",
+            "length": 55.86,
+            "rotation": 90,
+            "x": -3.17,
+            "y": 29.46
+          }
+        ],
+        "slots": [
+          {
+            "name": "2",
+            "bone": "2",
+            "attachment": "2"
+          },
+          {
+            "name": "3",
+            "bone": "3",
+            "attachment": "3"
+          },
+          {
+            "name": "4",
+            "bone": "root"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "2": {
+                "2": {
+                  "x": 48.56,
+                  "y": -1.87,
+                  "width": 102,
+                  "height": 18
+                }
+              },
+              "3": {
+                "3": {
+                  "x": -1.3,
+                  "y": 5.81,
+                  "width": 33,
+                  "height": 151
+                }
+              },
+              "4": {
+                "4": {
+                  "type": "mesh",
+                  "hull": 9,
+                  "width": 116,
+                  "height": 147,
+                  "uvs": [
+                    0.85133,
+                    0.74213,
+                    0.93964,
+                    0.78502,
+                    1,
+                    0.89759,
+                    1,
+                    1,
+                    0.33845,
+                    1,
+                    0.34355,
+                    0.88017,
+                    0.50318,
+                    0.74481,
+                    0.50658,
+                    0,
+                    0.84963,
+                    0
+                  ],
+                  "triangles": [
+                    7,
+                    8,
+                    0,
+                    6,
+                    7,
+                    0,
+                    0,
+                    1,
+                    2,
+                    3,
+                    0,
+                    2,
+                    6,
+                    0,
+                    3,
+                    4,
+                    5,
+                    6,
+                    3,
+                    4,
+                    6
+                  ],
+                  "vertices": [
+                    18.63,
+                    17.32,
+                    28.87,
+                    11.01,
+                    35.87,
+                    -5.54,
+                    35.87,
+                    -20.59,
+                    -40.87,
+                    -20.59,
+                    -40.27,
+                    -2.97,
+                    -21.76,
+                    16.92,
+                    -21.36,
+                    126.41,
+                    18.43,
+                    126.41
+                  ],
+                  "edges": [
+                    14,
+                    12,
+                    12,
+                    0,
+                    14,
+                    16,
+                    0,
+                    16,
+                    12,
+                    10,
+                    6,
+                    8,
+                    10,
+                    8,
+                    0,
+                    2,
+                    6,
+                    4,
+                    2,
+                    4
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "play": {
+            "slots": {
+              "3": {
+                "attachment": [
+                  {
+                    "time": 0.2333,
+                    "name": null
+                  }
+                ]
+              },
+              "4": {
+                "attachment": [
+                  {
+                    "time": 0.2333,
+                    "name": "4"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "2": {
+                "translate": [
+                  {},
+                  {
+                    "time": 0.2333,
+                    "y": -27.32
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.2333,
+                    "x": 4.237
+                  },
+                  {
+                    "time": 0.5,
+                    "x": -0.067
+                  }
+                ]
+              },
+              "3": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c4": 0.69
+                  },
+                  {
+                    "time": 0.2333,
+                    "y": -1725.22
+                  }
+                ]
+              }
+            },
+            "deform": {
+              "default": {
+                "4": {
+                  "4": [
+                    {
+                      "time": 0.2333,
+                      "offset": 2,
+                      "vertices": [
+                        -5.39201,
+                        0,
+                        -5.39201,
+                        0,
+                        -5.39201,
+                        0,
+                        8.76199,
+                        0,
+                        8.76199
+                      ]
+                    },
+                    {
+                      "time": 0.3333,
+                      "offset": 15,
+                      "vertices": [
+                        -9.60796,
+                        0,
+                        -9.60796
+                      ]
+                    },
+                    {
+                      "time": 0.4
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

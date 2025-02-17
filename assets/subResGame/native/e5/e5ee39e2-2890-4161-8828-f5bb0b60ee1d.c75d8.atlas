@@ -1,0 +1,41 @@
+
+guozhi.png
+size: 1222,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guozhi_bai
+  rotate: false
+  xy: 2, 2
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+guozhi_cheng
+  rotate: false
+  xy: 246, 2
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+guozhi_huang
+  rotate: false
+  xy: 490, 2
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+guozhi_ju
+  rotate: false
+  xy: 734, 2
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+guozhi_lan
+  rotate: false
+  xy: 978, 2
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1

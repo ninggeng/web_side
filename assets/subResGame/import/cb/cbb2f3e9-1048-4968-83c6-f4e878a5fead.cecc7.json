@@ -1,0 +1,682 @@
+[
+  1,
+  [
+    "5ctKJHovtKK6Se1EezhjdR"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "hudun",
+      "\r\nhudun.png\r\nsize: 1300,230\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\na\r\n  rotate: false\r\n  xy: 442, 50\r\n  size: 180, 180\r\n  orig: 182, 182\r\n  offset: 1, 1\r\n  index: -1\r\na1\r\n  rotate: false\r\n  xy: 903, 112\r\n  size: 82, 118\r\n  orig: 84, 124\r\n  offset: 1, 2\r\n  index: -1\r\na2\r\n  rotate: true\r\n  xy: 806, 128\r\n  size: 102, 95\r\n  orig: 108, 97\r\n  offset: 1, 1\r\n  index: -1\r\na3\r\n  rotate: false\r\n  xy: 1023, 107\r\n  size: 66, 123\r\n  orig: 68, 126\r\n  offset: 1, 1\r\n  index: -1\r\na4\r\n  rotate: false\r\n  xy: 1231, 115\r\n  size: 48, 85\r\n  orig: 51, 88\r\n  offset: 2, 1\r\n  index: -1\r\na5\r\n  rotate: false\r\n  xy: 1148, 9\r\n  size: 75, 96\r\n  orig: 81, 99\r\n  offset: 5, 2\r\n  index: -1\r\na6\r\n  rotate: false\r\n  xy: 1091, 107\r\n  size: 68, 115\r\n  orig: 70, 123\r\n  offset: 1, 4\r\n  index: -1\r\nb\r\n  rotate: false\r\n  xy: 624, 50\r\n  size: 180, 180\r\n  orig: 182, 182\r\n  offset: 1, 1\r\n  index: -1\r\nb1\r\n  rotate: true\r\n  xy: 903, 28\r\n  size: 82, 118\r\n  orig: 84, 124\r\n  offset: 1, 2\r\n  index: -1\r\nb2\r\n  rotate: true\r\n  xy: 806, 24\r\n  size: 102, 95\r\n  orig: 108, 97\r\n  offset: 1, 1\r\n  index: -1\r\nb3\r\n  rotate: true\r\n  xy: 1023, 39\r\n  size: 66, 123\r\n  orig: 68, 126\r\n  offset: 1, 1\r\n  index: -1\r\nb4\r\n  rotate: true\r\n  xy: 442, 0\r\n  size: 48, 85\r\n  orig: 51, 88\r\n  offset: 2, 1\r\n  index: -1\r\nb5\r\n  rotate: false\r\n  xy: 1225, 17\r\n  size: 75, 96\r\n  orig: 81, 99\r\n  offset: 5, 2\r\n  index: -1\r\nb6\r\n  rotate: false\r\n  xy: 1161, 115\r\n  size: 68, 115\r\n  orig: 70, 123\r\n  offset: 1, 4\r\n  index: -1\r\nglow_1047\r\n  rotate: false\r\n  xy: 236, 26\r\n  size: 204, 204\r\n  orig: 256, 256\r\n  offset: 26, 26\r\n  index: -1\r\nquan01_00000\r\n  rotate: false\r\n  xy: 0, 2\r\n  size: 234, 228\r\n  orig: 300, 300\r\n  offset: 33, 36\r\n  index: -1\r\n",
+      [
+        "hudun.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "nL3ChX7bz4yAfAaI/13oZ5ibqJM",
+          "spine": "3.8.99",
+          "x": -123.88,
+          "y": -123.88,
+          "width": 247.75,
+          "height": 247.75,
+          "images": "./images/",
+          "audio": "E:/work/抖音项目/老毛/水果消消乐"
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "root2",
+            "parent": "root"
+          },
+          {
+            "name": "a1",
+            "parent": "root",
+            "x": 53.74,
+            "y": -27.23
+          },
+          {
+            "name": "a2",
+            "parent": "root",
+            "x": 32.69,
+            "y": 46.55
+          },
+          {
+            "name": "a5",
+            "parent": "root",
+            "x": -42.39,
+            "y": 41.99
+          },
+          {
+            "name": "a6",
+            "parent": "root",
+            "x": -51.51,
+            "y": -30.27
+          },
+          {
+            "name": "a3",
+            "parent": "root",
+            "x": -15.27,
+            "y": -2.28
+          },
+          {
+            "name": "a4",
+            "parent": "root",
+            "x": -0.08,
+            "y": -49.36
+          },
+          {
+            "name": "quan01_00000",
+            "parent": "root2",
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        ],
+        "slots": [
+          {
+            "name": "a6",
+            "bone": "a6"
+          },
+          {
+            "name": "a5",
+            "bone": "a5"
+          },
+          {
+            "name": "a4",
+            "bone": "a4"
+          },
+          {
+            "name": "a3",
+            "bone": "a3"
+          },
+          {
+            "name": "a2",
+            "bone": "a2"
+          },
+          {
+            "name": "a1",
+            "bone": "a1"
+          },
+          {
+            "name": "b",
+            "bone": "root2",
+            "attachment": "b"
+          },
+          {
+            "name": "glow_1047",
+            "bone": "root2",
+            "color": "ffffff00",
+            "attachment": "glow_1047",
+            "blend": "additive"
+          },
+          {
+            "name": "quan01_00000",
+            "bone": "quan01_00000",
+            "attachment": "quan01_00000"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "glow_1047": {
+                "glow_1047": {
+                  "scaleX": 0.8825,
+                  "scaleY": 0.8825,
+                  "width": 256,
+                  "height": 256
+                }
+              },
+              "quan01_00000": {
+                "quan01_00000": {
+                  "width": 300,
+                  "height": 300
+                }
+              }
+            }
+          },
+          {
+            "name": "A",
+            "attachments": {
+              "a1": {
+                "a1": {
+                  "x": -5.18,
+                  "y": -1.44,
+                  "width": 84,
+                  "height": 124
+                }
+              },
+              "a2": {
+                "a2": {
+                  "x": 3.87,
+                  "y": -3.72,
+                  "width": 108,
+                  "height": 97
+                }
+              },
+              "a3": {
+                "a3": {
+                  "x": 5.83,
+                  "y": -3.39,
+                  "width": 68,
+                  "height": 126
+                }
+              },
+              "a4": {
+                "a4": {
+                  "x": -1.86,
+                  "y": 2.69,
+                  "width": 51,
+                  "height": 88
+                }
+              },
+              "a5": {
+                "a5": {
+                  "x": -7.54,
+                  "y": -0.16,
+                  "width": 81,
+                  "height": 99
+                }
+              },
+              "a6": {
+                "a6": {
+                  "x": -4.93,
+                  "y": 1.1,
+                  "width": 70,
+                  "height": 123
+                }
+              },
+              "b": {
+                "b": {
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            }
+          },
+          {
+            "name": "B",
+            "attachments": {
+              "a1": {
+                "a1": {
+                  "name": "b1",
+                  "x": -5.18,
+                  "y": -1.44,
+                  "width": 84,
+                  "height": 124
+                }
+              },
+              "a2": {
+                "a2": {
+                  "name": "b2",
+                  "x": 3.87,
+                  "y": -3.72,
+                  "width": 108,
+                  "height": 97
+                }
+              },
+              "a3": {
+                "a3": {
+                  "name": "b3",
+                  "x": 5.83,
+                  "y": -3.39,
+                  "width": 68,
+                  "height": 126
+                }
+              },
+              "a4": {
+                "a4": {
+                  "name": "b4",
+                  "x": -1.86,
+                  "y": 2.69,
+                  "width": 51,
+                  "height": 88
+                }
+              },
+              "a5": {
+                "a5": {
+                  "name": "b5",
+                  "x": -7.54,
+                  "y": -0.16,
+                  "width": 81,
+                  "height": 99
+                }
+              },
+              "a6": {
+                "a6": {
+                  "name": "b6",
+                  "x": -4.93,
+                  "y": 1.1,
+                  "width": 70,
+                  "height": 123
+                }
+              },
+              "b": {
+                "b": {
+                  "name": "a",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "play": {
+            "slots": {
+              "glow_1047": {
+                "color": [
+                  {
+                    "color": "ffffff00",
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff3e",
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2,
+                    "color": "ffffff00"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "quan01_00000": {
+                "rotate": [
+                  {
+                    "angle": 1.88
+                  },
+                  {
+                    "time": 0.6667,
+                    "angle": 120
+                  },
+                  {
+                    "time": 1.3333,
+                    "angle": -120
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              }
+            }
+          },
+          "sui": {
+            "slots": {
+              "a1": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a1"
+                  }
+                ]
+              },
+              "a2": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a2"
+                  }
+                ]
+              },
+              "a3": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a3"
+                  }
+                ]
+              },
+              "a4": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a4"
+                  }
+                ]
+              },
+              "a5": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a5"
+                  }
+                ]
+              },
+              "a6": {
+                "color": [
+                  {
+                    "time": 0.1667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "a6"
+                  }
+                ]
+              },
+              "b": {
+                "attachment": [
+                  {
+                    "name": null
+                  }
+                ]
+              },
+              "glow_1047": {
+                "color": [
+                  {
+                    "color": "ffffffff"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": null
+                  }
+                ]
+              },
+              "quan01_00000": {
+                "attachment": [
+                  {
+                    "name": null
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "a1": {
+                "rotate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "angle": -29.48
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 139.87,
+                    "y": -134.59
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "x": 0.324,
+                    "y": 0.324
+                  }
+                ]
+              },
+              "a2": {
+                "rotate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "angle": -51.99
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 146.9,
+                    "y": 127.37
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "x": 0.563,
+                    "y": 0.563
+                  }
+                ]
+              },
+              "a3": {
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": -91.4,
+                    "y": 29.57
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 1.071,
+                    "y": 1.071
+                  }
+                ]
+              },
+              "a4": {
+                "rotate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "angle": -8.79
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 48.24,
+                    "y": -77.39
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 1.5,
+                    "y": 1.5
+                  }
+                ]
+              },
+              "a5": {
+                "rotate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "angle": 16.05
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": -139.46,
+                    "y": 123.01
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "x": 0.509,
+                    "y": 0.509
+                  }
+                ]
+              },
+              "a6": {
+                "rotate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "angle": 10.35
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0,
+                    "c2": 0.61,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": -175.7,
+                    "y": -91.06
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "x": 0.381,
+                    "y": 0.381
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

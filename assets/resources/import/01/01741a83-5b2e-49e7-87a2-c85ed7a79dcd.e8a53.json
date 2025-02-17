@@ -1,0 +1,39 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "GameConfig",
+      {
+        "time": 3,
+        "sharedShowTime": 60,
+        "sharedShowProbability": 0.1
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

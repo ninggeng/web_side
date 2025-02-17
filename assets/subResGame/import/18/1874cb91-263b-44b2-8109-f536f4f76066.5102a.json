@@ -1,0 +1,1411 @@
+[
+  1,
+  [
+    "78x7sFtsNNXKnjMCwmKb8A"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "jy_lxg",
+      "\r\njy_lxg.png\r\nsize: 624,379\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nbingxigua_2\r\n  rotate: false\r\n  xy: 511, 238\r\n  size: 96, 37\r\n  orig: 96, 37\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_body\r\n  rotate: true\r\n  xy: 370, 189\r\n  size: 188, 139\r\n  orig: 188, 139\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_eye\r\n  rotate: true\r\n  xy: 511, 277\r\n  size: 100, 43\r\n  orig: 100, 43\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_texiao\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 375, 366\r\n  orig: 375, 366\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_tou\r\n  rotate: true\r\n  xy: 370, 2\r\n  size: 185, 125\r\n  orig: 185, 125\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_tou2\r\n  rotate: true\r\n  xy: 497, 2\r\n  size: 185, 125\r\n  orig: 185, 125\r\n  offset: 0, 0\r\n  index: -1\r\nbingxigua_zui\r\n  rotate: false\r\n  xy: 511, 190\r\n  size: 30, 16\r\n  orig: 30, 16\r\n  offset: 0, 0\r\n  index: -1\r\ntouying\r\n  rotate: false\r\n  xy: 511, 208\r\n  size: 80, 28\r\n  orig: 80, 28\r\n  offset: 0, 0\r\n  index: -1\r\n",
+      [
+        "jy_lxg.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "L0ZCcsI0UNFdTKTrjnqJ4ZnXCGM",
+          "spine": "3.8.75",
+          "x": -101.15,
+          "y": -49.84,
+          "width": 188,
+          "height": 219.88,
+          "images": "./images/",
+          "audio": "../"
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "xigua",
+            "parent": "root"
+          },
+          {
+            "name": "xigua2",
+            "parent": "xigua",
+            "x": -7.54,
+            "y": -29.81
+          },
+          {
+            "name": "xigua3",
+            "parent": "xigua2",
+            "length": 87.39,
+            "rotation": 88.53,
+            "x": 2.24,
+            "y": 7.28,
+            "scaleX": 1.73,
+            "scaleY": 1.73
+          },
+          {
+            "name": "xigua5",
+            "parent": "xigua3",
+            "length": 60.38,
+            "rotation": -2.47,
+            "x": 1.78,
+            "y": 9.64
+          },
+          {
+            "name": "xigua4",
+            "parent": "xigua5",
+            "rotation": 2.47,
+            "x": 34.15,
+            "y": 10.98,
+            "color": "abe323ff"
+          },
+          {
+            "name": "xigua7",
+            "parent": "xigua4",
+            "x": -22.63,
+            "y": -1.8
+          },
+          {
+            "name": "xigua8",
+            "parent": "xigua3",
+            "x": 71.43,
+            "y": 1.29
+          },
+          {
+            "name": "xigua9",
+            "parent": "xigua8",
+            "x": 11.5,
+            "y": -3.43
+          },
+          {
+            "name": "xigua10",
+            "parent": "xigua8",
+            "x": 20.39,
+            "y": -7.72
+          },
+          {
+            "name": "xigua11",
+            "parent": "xigua8",
+            "x": 18.79,
+            "y": -14.65
+          },
+          {
+            "name": "bone",
+            "parent": "root",
+            "x": -4.58,
+            "y": -26
+          },
+          {
+            "name": "xigua6",
+            "parent": "xigua3",
+            "length": 37.69,
+            "rotation": 175.98,
+            "x": 81.98,
+            "y": -1.29
+          },
+          {
+            "name": "xigua13",
+            "parent": "xigua7",
+            "length": 39.44,
+            "rotation": 82.48,
+            "x": -0.31,
+            "y": -0.76,
+            "scaleX": 1.7869,
+            "scaleY": 1.7869,
+            "transform": "noScale"
+          },
+          {
+            "name": "xigua14",
+            "parent": "xigua5",
+            "rotation": 2.47,
+            "x": 27.61,
+            "y": 16.47,
+            "color": "abe323ff"
+          }
+        ],
+        "slots": [
+          {
+            "name": "touying",
+            "bone": "bone",
+            "attachment": "touying"
+          },
+          {
+            "name": "xigua2",
+            "bone": "xigua8"
+          },
+          {
+            "name": "xigua5",
+            "bone": "xigua7"
+          },
+          {
+            "name": "bingxigua_texiao",
+            "bone": "root"
+          },
+          {
+            "name": "bingxigua_body",
+            "bone": "xigua5",
+            "attachment": "bingxigua_body2"
+          },
+          {
+            "name": "bingxigua_tou",
+            "bone": "xigua6",
+            "attachment": "bingxigua_tou3"
+          },
+          {
+            "name": "bingxigua_2",
+            "bone": "xigua4",
+            "attachment": "bingxigua_3"
+          },
+          {
+            "name": "bingxigua_zui",
+            "bone": "xigua7",
+            "attachment": "bingxigua_zui2"
+          }
+        ],
+        "transform": [
+          {
+            "name": "xigua4",
+            "target": "xigua4",
+            "x": 38.22,
+            "y": -14.9,
+            "rotateMix": 0,
+            "translateMix": 0.15,
+            "scaleMix": 0,
+            "shearMix": 0,
+            "bones": [
+              "xigua8"
+            ]
+          },
+          {
+            "name": "xigua42",
+            "order": 1,
+            "target": "xigua4",
+            "x": -6.29,
+            "y": 5.77,
+            "rotateMix": 0,
+            "translateMix": 0.3,
+            "scaleMix": 0,
+            "shearMix": 0,
+            "bones": [
+              "xigua14"
+            ]
+          },
+          {
+            "name": "xigua44",
+            "order": 2,
+            "target": "xigua4",
+            "x": -22.63,
+            "y": -1.8,
+            "rotateMix": 0,
+            "translateMix": 0.3,
+            "scaleMix": 0,
+            "shearMix": 0,
+            "bones": [
+              "xigua7"
+            ]
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "bingxigua_texiao": {
+                "bingxigua_texiao2": {
+                  "type": "mesh",
+                  "path": "bingxigua_texiao",
+                  "hull": 4,
+                  "width": 375,
+                  "height": 366,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    186.53,
+                    -142.69,
+                    -188.47,
+                    -142.69,
+                    -189.81,
+                    82.36,
+                    185.19,
+                    82.36
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "bingxigua_2": {
+                "bingxigua_3": {
+                  "type": "mesh",
+                  "path": "bingxigua_2",
+                  "hull": 4,
+                  "width": 96,
+                  "height": 37,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -10.83,
+                    -30.33,
+                    -12.28,
+                    26.12,
+                    12.39,
+                    26.75,
+                    13.84,
+                    -29.69
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                },
+                "bingxigua_eye2": {
+                  "type": "mesh",
+                  "path": "bingxigua_eye",
+                  "hull": 4,
+                  "width": 100,
+                  "height": 43,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -10.41,
+                    -29.3,
+                    -11.81,
+                    25.11,
+                    11.98,
+                    25.72,
+                    13.37,
+                    -28.69
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "bingxigua_body": {
+                "bingxigua_body2": {
+                  "type": "mesh",
+                  "path": "bingxigua_body",
+                  "hull": 4,
+                  "width": 188,
+                  "height": 139,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -3.46,
+                    -63.24,
+                    -10.92,
+                    45.17,
+                    69.24,
+                    50.69,
+                    76.7,
+                    -57.72
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "touying": {
+                "touying": {
+                  "type": "mesh",
+                  "hull": 4,
+                  "width": 80,
+                  "height": 28,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    62.47,
+                    -23.84,
+                    -62.2,
+                    -23.84,
+                    -62.2,
+                    19.79,
+                    62.47,
+                    19.79
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "bingxigua_zui": {
+                "bingxigua_zui2": {
+                  "type": "mesh",
+                  "path": "bingxigua_zui",
+                  "hull": 4,
+                  "width": 30,
+                  "height": 16,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    -4.7,
+                    -8.52,
+                    -5.15,
+                    8.82,
+                    4.1,
+                    9.06,
+                    4.54,
+                    -8.28
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              },
+              "bingxigua_tou": {
+                "bingxigua_tou3": {
+                  "type": "mesh",
+                  "path": "bingxigua_tou",
+                  "hull": 4,
+                  "width": 185,
+                  "height": 125,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    38.02,
+                    52.49,
+                    48.26,
+                    -53.96,
+                    -23.67,
+                    -60.87,
+                    -33.9,
+                    45.57
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                },
+                "bingxigua_tou4": {
+                  "type": "mesh",
+                  "path": "bingxigua_tou2",
+                  "hull": 4,
+                  "width": 185,
+                  "height": 125,
+                  "uvs": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                  ],
+                  "triangles": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    0
+                  ],
+                  "vertices": [
+                    39.41,
+                    53.31,
+                    49.65,
+                    -53.14,
+                    -22.28,
+                    -60.05,
+                    -32.51,
+                    46.39
+                  ],
+                  "edges": [
+                    0,
+                    2,
+                    2,
+                    4,
+                    4,
+                    6,
+                    0,
+                    6
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "name": "xigua_lan"
+          }
+        ],
+        "animations": {
+          "die": {
+            "slots": {
+              "xigua5": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "bingxigua_2": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": "bingxigua_eye2"
+                  }
+                ]
+              },
+              "bingxigua_tou": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "time": 0.0333,
+                    "name": "bingxigua_tou4"
+                  }
+                ]
+              },
+              "xigua2": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.8333,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "bingxigua_body": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "bingxigua_zui": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "bingxigua_texiao": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "touying": {
+                "color": [
+                  {
+                    "time": 0.5667,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.6667,
+                    "color": "ffffff00"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "xigua5": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "angle": -3.16,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2333,
+                    "angle": 3.21,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ],
+                "shear": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": -5.47,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2333,
+                    "x": 4.92,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ]
+              },
+              "xigua6": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "angle": -91.56,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.3667,
+                    "angle": 174.84,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.6667,
+                    "angle": -174.77
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": 24.35,
+                    "y": -79.94,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.3667,
+                    "x": -61.65,
+                    "y": -90.67
+                  }
+                ]
+              }
+            }
+          },
+          "play": {
+            "slots": {
+              "bingxigua_texiao": {
+                "color": [
+                  {
+                    "time": 1.6333,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 1.9667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "time": 0.8,
+                    "name": "bingxigua_texiao2"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "xigua3": {
+                "translate": [
+                  {
+                    "time": 0.4,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4667,
+                    "y": 100.34,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "y": 124.28,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.8
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 0.912,
+                    "y": 1.075,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 0.873,
+                    "y": 1.112,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4667,
+                    "x": 1.101,
+                    "y": 0.942,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 1.078,
+                    "y": 0.957,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.8,
+                    "x": 0.912,
+                    "y": 1.075,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1
+                  }
+                ]
+              },
+              "xigua4": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": -3.77,
+                    "y": -0.09,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -3.77,
+                    "y": -0.09,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4667,
+                    "x": 9.31,
+                    "y": 0.26,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 6.24,
+                    "y": 0.16,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.8,
+                    "x": -3.77,
+                    "y": -0.09,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1
+                  }
+                ]
+              },
+              "xigua9": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 3.78,
+                    "y": 1.65,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -1.66,
+                    "y": -2.37,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua10": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 5.82,
+                    "y": 5.47,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -5.66,
+                    "y": -5.5,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua11": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "angle": 34.12,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 12.68,
+                    "y": 8.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -9.26,
+                    "y": -7.92,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua7": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.1667,
+                    "x": 1.261,
+                    "y": 1.261,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 1.261,
+                    "y": 1.261
+                  },
+                  {
+                    "time": 0.4667,
+                    "x": 0.9,
+                    "y": 0.9
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 0.733,
+                    "y": 0.733
+                  },
+                  {
+                    "time": 0.8,
+                    "x": 1.261,
+                    "y": 1.261
+                  },
+                  {
+                    "time": 1.1
+                  }
+                ]
+              },
+              "bone": {
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 1.095,
+                    "y": 1.095,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 1.095,
+                    "y": 1.095,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4667,
+                    "x": 0.587,
+                    "y": 0.587,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 0.273,
+                    "y": 0.273,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.8,
+                    "x": 1.095,
+                    "y": 1.095,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1
+                  }
+                ]
+              }
+            },
+            "deform": {
+              "default": {
+                "bingxigua_texiao": {
+                  "bingxigua_texiao2": [
+                    {
+                      "time": 0.8,
+                      "curve": 0.25,
+                      "c3": 0.75,
+                      "vertices": [
+                        -41.17677,
+                        24.62404,
+                        40.88441,
+                        24.62404,
+                        41.17677,
+                        -24.62404,
+                        -40.88441,
+                        -24.62404
+                      ]
+                    },
+                    {
+                      "time": 0.9,
+                      "vertices": [
+                        83.01016,
+                        -49.64075,
+                        -82.42078,
+                        -49.64075,
+                        -83.01016,
+                        49.64075,
+                        82.42078,
+                        49.64075
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "tiao": {
+            "bones": {
+              "xigua3": {
+                "translate": [
+                  {
+                    "time": 0.1667,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "y": 9.37,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "y": 17.55,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 0.946,
+                    "y": 1.018,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 1.053,
+                    "y": 0.973,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4
+                  }
+                ]
+              },
+              "xigua4": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": -3.77,
+                    "y": -0.09,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 9.31,
+                    "y": 0.26,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 6.24,
+                    "y": 0.16,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua9": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 3.78,
+                    "y": 1.65,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -1.66,
+                    "y": -2.37,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua10": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 5.82,
+                    "y": 5.47,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -5.66,
+                    "y": -5.5,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua11": {
+                "rotate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "angle": 34.12,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4
+                  }
+                ],
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 12.68,
+                    "y": 8.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": -9.26,
+                    "y": -7.92,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "xigua7": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.1667,
+                    "x": 1.261,
+                    "y": 1.261
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 0.9,
+                    "y": 0.9
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 0.733,
+                    "y": 0.733
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              },
+              "bone": {
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 1.095,
+                    "y": 1.095,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 0.769,
+                    "y": 0.769,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.4,
+                    "x": 0.596,
+                    "y": 0.596,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5667
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

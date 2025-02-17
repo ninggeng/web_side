@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "7ck9IX7KdKuaAbOAb+sOAd": [
+            "test",
+            "cc.TextAsset"
+        ]
+    },
+    "uuids": [
+        "7ck9IX7KdKuaAbOAb+sOAd"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "subRes",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "7ck9IX7KdKuaAbOAb+sOAd",
+            "a5d97"
+        ],
+        "native": []
+    }
+}

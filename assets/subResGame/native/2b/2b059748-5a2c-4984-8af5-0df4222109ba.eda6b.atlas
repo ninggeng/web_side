@@ -1,0 +1,90 @@
+
+ctxg.png
+size: 540,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cxg_biyan
+  rotate: true
+  xy: 290, 160
+  size: 42, 12
+  orig: 45, 14
+  offset: 2, 1
+  index: -1
+cxg_biyan2
+  rotate: false
+  xy: 241, 189
+  size: 47, 13
+  orig: 50, 15
+  offset: 1, 1
+  index: -1
+cxg_body
+  rotate: true
+  xy: 2, 120
+  size: 115, 237
+  orig: 120, 237
+  offset: 0, 0
+  index: -1
+cxg_bodyshang
+  rotate: false
+  xy: 425, 8
+  size: 113, 130
+  orig: 115, 132
+  offset: 1, 1
+  index: -1
+cxg_bodyxia
+  rotate: true
+  xy: 2, 2
+  size: 116, 139
+  orig: 120, 141
+  offset: 1, 1
+  index: -1
+cxg_eye1
+  rotate: false
+  xy: 188, 84
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+cxg_eye2
+  rotate: false
+  xy: 143, 86
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+cxg_siwangyan
+  rotate: true
+  xy: 286, 22
+  size: 116, 137
+  orig: 120, 139
+  offset: 1, 1
+  index: -1
+cxg_ty
+  rotate: true
+  xy: 241, 48
+  size: 139, 43
+  orig: 141, 45
+  offset: 1, 1
+  index: -1
+cxg_zuiba
+  rotate: false
+  xy: 241, 204
+  size: 56, 31
+  orig: 58, 34
+  offset: 1, 1
+  index: -1
+di
+  rotate: true
+  xy: 308, 140
+  size: 200, 226
+  orig: 234, 252
+  offset: 22, 25
+  index: -1
+zi
+  rotate: false
+  xy: 2, 237
+  size: 304, 103
+  orig: 306, 105
+  offset: 1, 1
+  index: -1

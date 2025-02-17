@@ -1,0 +1,27 @@
+
+xuanfeng.png
+size: 316,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang2
+  rotate: false
+  xy: 2, 149
+  size: 312, 158
+  orig: 324, 163
+  offset: 10, 2
+  index: -1
+lan2
+  rotate: false
+  xy: 2, 2
+  size: 281, 145
+  orig: 291, 148
+  offset: 8, 1
+  index: -1
+touying
+  rotate: true
+  xy: 285, 67
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+shu.png
+size: 792,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 560, 28
+  size: 75, 110
+  orig: 84, 115
+  offset: 3, 1
+  index: -1
+juese1
+  rotate: false
+  xy: 212, 140
+  size: 232, 127
+  orig: 236, 131
+  offset: 2, 3
+  index: -1
+juese2
+  rotate: false
+  xy: 212, 11
+  size: 172, 127
+  orig: 175, 130
+  offset: 2, 2
+  index: -1
+juese3
+  rotate: false
+  xy: 2, 57
+  size: 208, 210
+  orig: 215, 214
+  offset: 6, 2
+  index: -1
+juese4
+  rotate: false
+  xy: 386, 11
+  size: 172, 127
+  orig: 175, 130
+  offset: 1, 2
+  index: -1
+juese5
+  rotate: false
+  xy: 446, 140
+  size: 232, 127
+  orig: 236, 131
+  offset: 2, 3
+  index: -1
+shu_body
+  rotate: false
+  xy: 717, 94
+  size: 64, 68
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+shu_dao
+  rotate: false
+  xy: 132, 31
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+shu_dao2
+  rotate: true
+  xy: 765, 50
+  size: 42, 25
+  orig: 44, 27
+  offset: 0, 1
+  index: -1
+shu_shou
+  rotate: true
+  xy: 84, 31
+  size: 24, 46
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+shu_shou2
+  rotate: true
+  xy: 637, 27
+  size: 22, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+shu_tou
+  rotate: false
+  xy: 637, 51
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+shu_weiba
+  rotate: true
+  xy: 717, 49
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+shu_yingzi
+  rotate: false
+  xy: 2, 2
+  size: 70, 23
+  orig: 72, 25
+  offset: 1, 1
+  index: -1
+touying
+  rotate: false
+  xy: 2, 27
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 680, 164
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

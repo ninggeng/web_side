@@ -1,0 +1,2042 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "BuffConfig",
+      {
+        "AddAllHp": {
+          "id": "AddAllHp",
+          "name": "回复满血量",
+          "class": "BuffHeal",
+          "priority": 0,
+          "permanent": false,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            1
+          ]
+        },
+        "AddMaxHp1": {
+          "id": "AddMaxHp1",
+          "name": "生命上限增加10%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.1
+          ]
+        },
+        "AddMaxHp2": {
+          "id": "AddMaxHp2",
+          "name": "生命上限增加20%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.2
+          ]
+        },
+        "AddMaxHp3": {
+          "id": "AddMaxHp3",
+          "name": "生命上限增加30%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.3
+          ]
+        },
+        "AddMaxHp4": {
+          "id": "AddMaxHp4",
+          "name": "生命上限增加40%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.4
+          ]
+        },
+        "AddMaxHp5": {
+          "id": "AddMaxHp5",
+          "name": "生命上限增加50%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.5
+          ]
+        },
+        "AddMaxHp6": {
+          "id": "AddMaxHp6",
+          "name": "生命上限增加60%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.6
+          ]
+        },
+        "AddMaxHp7": {
+          "id": "AddMaxHp7",
+          "name": "生命上限增加70%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.7
+          ]
+        },
+        "AddMaxHp8": {
+          "id": "AddMaxHp8",
+          "name": "生命上限增加80%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.8
+          ]
+        },
+        "AddMaxHp9": {
+          "id": "AddMaxHp9",
+          "name": "生命上限增加90%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            0.9
+          ]
+        },
+        "AddMaxHp10": {
+          "id": "AddMaxHp10",
+          "name": "生命上限增加100%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "maxHp",
+            1
+          ]
+        },
+        "shield": {
+          "id": "shield",
+          "name": "生命上限增加100%，并额外附加1个生命上限20%的护盾，护盾被击碎后，15s后自动恢复",
+          "class": "BuffShield",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 15
+          }
+        },
+        "AddCirt1": {
+          "id": "AddCirt1",
+          "name": "暴击增加5%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.05
+          ]
+        },
+        "AddCirt2": {
+          "id": "AddCirt2",
+          "name": "暴击增加10%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.1
+          ]
+        },
+        "AddCirt3": {
+          "id": "AddCirt3",
+          "name": "暴击增加15%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.15
+          ]
+        },
+        "AddCirt4": {
+          "id": "AddCirt4",
+          "name": "暴击增加20%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.2
+          ]
+        },
+        "AddCirt5": {
+          "id": "AddCirt5",
+          "name": "暴击增加25%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.25
+          ]
+        },
+        "AddCirt6": {
+          "id": "AddCirt6",
+          "name": "暴击增加30%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.3
+          ]
+        },
+        "AddCirt7": {
+          "id": "AddCirt7",
+          "name": "暴击增加35%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.35
+          ]
+        },
+        "AddCirt8": {
+          "id": "AddCirt8",
+          "name": "暴击增加40%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.4
+          ]
+        },
+        "AddCirt9": {
+          "id": "AddCirt9",
+          "name": "暴击增加45%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.45
+          ]
+        },
+        "AddCirt10": {
+          "id": "AddCirt10",
+          "name": "暴击增加50%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0.5
+          ]
+        },
+        "AddCritDamageMulti": {
+          "id": "AddCritDamageMulti",
+          "name": "暴击率增加50%，暴击时造成4倍伤害（普通暴击为2倍伤害）",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "critDamageMulti",
+            0,
+            4
+          ]
+        },
+        "AddRange1": {
+          "id": "AddRange1",
+          "name": "攻击范围增加10%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.1
+          ]
+        },
+        "AddRange2": {
+          "id": "AddRange2",
+          "name": "攻击范围增加20%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.2
+          ]
+        },
+        "AddRange3": {
+          "id": "AddRange3",
+          "name": "攻击范围增加30%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.3
+          ]
+        },
+        "AddRange4": {
+          "id": "AddRange4",
+          "name": "攻击范围增加40%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.4
+          ]
+        },
+        "AddRange5": {
+          "id": "AddRange5",
+          "name": "攻击范围增加50%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.5
+          ]
+        },
+        "AddRange6": {
+          "id": "AddRange6",
+          "name": "攻击范围增加60%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.6
+          ]
+        },
+        "AddRange7": {
+          "id": "AddRange7",
+          "name": "攻击范围增加70%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.7
+          ]
+        },
+        "AddRange8": {
+          "id": "AddRange8",
+          "name": "攻击范围增加80%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.8
+          ]
+        },
+        "AddRange9": {
+          "id": "AddRange9",
+          "name": "攻击范围增加90%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            0.9
+          ]
+        },
+        "AddRange10": {
+          "id": "AddRange10",
+          "name": "攻击范围增加100%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "range",
+            1
+          ]
+        },
+        "AddSpedd1": {
+          "id": "AddSpedd1",
+          "name": "移动距离增加30%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            0.3
+          ]
+        },
+        "AddSpedd2": {
+          "id": "AddSpedd2",
+          "name": "移动距离增加50%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            0.5
+          ]
+        },
+        "AddSpedd3": {
+          "id": "AddSpedd3",
+          "name": "移动距离增加100%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            1
+          ]
+        },
+        "AddSpedd4": {
+          "id": "AddSpedd4",
+          "name": "移动距离增加120%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            1.2
+          ]
+        },
+        "AddSpedd5": {
+          "id": "AddSpedd5",
+          "name": "移动距离增加150%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            1.5
+          ]
+        },
+        "AddSpedd6": {
+          "id": "AddSpedd6",
+          "name": "移动距离增加200%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            2
+          ]
+        },
+        "AddSpedd7": {
+          "id": "AddSpedd7",
+          "name": "移动距离增加220%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            2.2
+          ]
+        },
+        "AddSpedd8": {
+          "id": "AddSpedd8",
+          "name": "移动距离增加240%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            2.4
+          ]
+        },
+        "AddSpedd9": {
+          "id": "AddSpedd9",
+          "name": "移动距离增加260%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            2.6
+          ]
+        },
+        "AddSpedd10": {
+          "id": "AddSpedd10",
+          "name": "移动距离增加300%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "catapultForce",
+            3
+          ]
+        },
+        "feidaoCount1": {
+          "id": "feidaoCount1",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            1
+          ]
+        },
+        "feidaoDamage1": {
+          "id": "feidaoDamage1",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.2
+          ]
+        },
+        "feidaoCount2": {
+          "id": "feidaoCount2",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            1
+          ]
+        },
+        "feidaoDamage2": {
+          "id": "feidaoDamage2",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.25
+          ]
+        },
+        "feidaoCount3": {
+          "id": "feidaoCount3",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            2
+          ]
+        },
+        "feidaoDamage3": {
+          "id": "feidaoDamage3",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.3
+          ]
+        },
+        "feidaoCount4": {
+          "id": "feidaoCount4",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            2
+          ]
+        },
+        "feidaoDamage4": {
+          "id": "feidaoDamage4",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.35
+          ]
+        },
+        "feidaoCount5": {
+          "id": "feidaoCount5",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            3
+          ]
+        },
+        "feidaoDamage5": {
+          "id": "feidaoDamage5",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.4
+          ]
+        },
+        "feidaoCount6": {
+          "id": "feidaoCount6",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            3
+          ]
+        },
+        "feidaoDamage6": {
+          "id": "feidaoDamage6",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.45
+          ]
+        },
+        "feidaoCount7": {
+          "id": "feidaoCount7",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            4
+          ]
+        },
+        "feidaoDamage7": {
+          "id": "feidaoDamage7",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.5
+          ]
+        },
+        "feidaoCount8": {
+          "id": "feidaoCount8",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            4
+          ]
+        },
+        "feidaoDamage8": {
+          "id": "feidaoDamage8",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.55
+          ]
+        },
+        "feidaoCount9": {
+          "id": "feidaoCount9",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            5
+          ]
+        },
+        "feidaoDamage9": {
+          "id": "feidaoDamage9",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.6
+          ]
+        },
+        "feidaoCount10": {
+          "id": "feidaoCount10",
+          "name": "飞刀数量",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidao",
+            0,
+            5
+          ]
+        },
+        "feidaoDamage10": {
+          "id": "feidaoDamage10",
+          "name": "飞刀伤害",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "feidaoDamageMulti",
+            0,
+            0.65
+          ]
+        },
+        "boom1": {
+          "id": "boom1",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            80
+          ]
+        },
+        "boomDamage1": {
+          "id": "boomDamage1",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            0.5
+          ]
+        },
+        "boom2": {
+          "id": "boom2",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            90
+          ]
+        },
+        "boomDamage2": {
+          "id": "boomDamage2",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            0.6
+          ]
+        },
+        "boom3": {
+          "id": "boom3",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            100
+          ]
+        },
+        "boomDamage3": {
+          "id": "boomDamage3",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            0.7
+          ]
+        },
+        "boom4": {
+          "id": "boom4",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            110
+          ]
+        },
+        "boomDamage4": {
+          "id": "boomDamage4",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            0.8
+          ]
+        },
+        "boom5": {
+          "id": "boom5",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            120
+          ]
+        },
+        "boomDamage5": {
+          "id": "boomDamage5",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            0.9
+          ]
+        },
+        "boom6": {
+          "id": "boom6",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            130
+          ]
+        },
+        "boomDamage6": {
+          "id": "boomDamage6",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            1
+          ]
+        },
+        "boom7": {
+          "id": "boom7",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            140
+          ]
+        },
+        "boomDamage7": {
+          "id": "boomDamage7",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            1.1
+          ]
+        },
+        "boom8": {
+          "id": "boom8",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            150
+          ]
+        },
+        "boomDamage8": {
+          "id": "boomDamage8",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            1.2
+          ]
+        },
+        "boom9": {
+          "id": "boom9",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            160
+          ]
+        },
+        "boomDamage9": {
+          "id": "boomDamage9",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            1.3
+          ]
+        },
+        "boom10": {
+          "id": "boom10",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomRange",
+            0,
+            170
+          ]
+        },
+        "boomDamage10": {
+          "id": "boomDamage10",
+          "name": "爆炸",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "boomDamageMulti",
+            0,
+            1.4
+          ]
+        },
+        "fbsd1": {
+          "id": "fbsd1",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            2
+          ]
+        },
+        "fbsdDamage1": {
+          "id": "fbsdDamage1",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.1
+          ]
+        },
+        "fbsd2": {
+          "id": "fbsd2",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            3
+          ]
+        },
+        "fbsdDamage2": {
+          "id": "fbsdDamage2",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.15
+          ]
+        },
+        "fbsd3": {
+          "id": "fbsd3",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            3
+          ]
+        },
+        "fbsdDamage3": {
+          "id": "fbsdDamage3",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.2
+          ]
+        },
+        "fbsd4": {
+          "id": "fbsd4",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            4
+          ]
+        },
+        "fbsdDamage4": {
+          "id": "fbsdDamage4",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.25
+          ]
+        },
+        "fbsd5": {
+          "id": "fbsd5",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            4
+          ]
+        },
+        "fbsdDamage5": {
+          "id": "fbsdDamage5",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.3
+          ]
+        },
+        "fbsd6": {
+          "id": "fbsd6",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            5
+          ]
+        },
+        "fbsdDamage6": {
+          "id": "fbsdDamage6",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.35
+          ]
+        },
+        "fbsd7": {
+          "id": "fbsd7",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            5
+          ]
+        },
+        "fbsdDamage7": {
+          "id": "fbsdDamage7",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.4
+          ]
+        },
+        "fbsd8": {
+          "id": "fbsd8",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            6
+          ]
+        },
+        "fbsdDamage8": {
+          "id": "fbsdDamage8",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.45
+          ]
+        },
+        "fbsd9": {
+          "id": "fbsd9",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            7
+          ]
+        },
+        "fbsdDamage9": {
+          "id": "fbsdDamage9",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.5
+          ]
+        },
+        "fbsd10": {
+          "id": "fbsd10",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsd",
+            0,
+            8
+          ]
+        },
+        "fbsdDamage10": {
+          "id": "fbsdDamage10",
+          "name": "背腹受敌",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "fbsdDamageMulti",
+            0,
+            0.6
+          ]
+        },
+        "immune1": {
+          "id": "immune1",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 20
+          }
+        },
+        "immune2": {
+          "id": "immune2",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 18
+          }
+        },
+        "immune3": {
+          "id": "immune3",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 16
+          }
+        },
+        "immune4": {
+          "id": "immune4",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 14
+          }
+        },
+        "immune5": {
+          "id": "immune5",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 12
+          }
+        },
+        "immune6": {
+          "id": "immune6",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 10
+          }
+        },
+        "immune7": {
+          "id": "immune7",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 9
+          }
+        },
+        "immune8": {
+          "id": "immune8",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 8
+          }
+        },
+        "immune9": {
+          "id": "immune9",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 7
+          }
+        },
+        "immune10": {
+          "id": "immune10",
+          "name": "金钟罩",
+          "class": "BuffImmune",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": {
+            "cd": 5
+          }
+        },
+        "AddAttack1": {
+          "id": "AddAttack1",
+          "name": "攻击力增加30%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0.3
+          ]
+        },
+        "AddAttack2": {
+          "id": "AddAttack2",
+          "name": "攻击力增加50%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0.5
+          ]
+        },
+        "AddAttack3": {
+          "id": "AddAttack3",
+          "name": "攻击力增加70%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0.7
+          ]
+        },
+        "AddAttack4": {
+          "id": "AddAttack4",
+          "name": "攻击力增加100%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1
+          ]
+        },
+        "AddAttack5": {
+          "id": "AddAttack5",
+          "name": "攻击力增加120%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1.2
+          ]
+        },
+        "AddAttack6": {
+          "id": "AddAttack6",
+          "name": "攻击力增加140%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1.4
+          ]
+        },
+        "AddAttack7": {
+          "id": "AddAttack7",
+          "name": "攻击力增加150%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1.5
+          ]
+        },
+        "AddAttack8": {
+          "id": "AddAttack8",
+          "name": "攻击力增加160%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1.6
+          ]
+        },
+        "AddAttack9": {
+          "id": "AddAttack9",
+          "name": "攻击力增加180%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            1.8
+          ]
+        },
+        "AddAttack10": {
+          "id": "AddAttack10",
+          "name": "攻击力增加200%",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 0,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            2
+          ]
+        },
+        "heroSupper": {
+          "id": "heroSupper",
+          "name": "变身",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "supper",
+            0,
+            1
+          ]
+        },
+        "heroSupperCirt": {
+          "id": "heroSupperCirt",
+          "name": "变身",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "cirt",
+            0,
+            2
+          ]
+        },
+        "Weaponattack_2": {
+          "id": "Weaponattack_2",
+          "name": "刀加攻击力",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0,
+            20
+          ]
+        },
+        "Weaponattack_3": {
+          "id": "Weaponattack_3",
+          "name": "刀加攻击力",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0,
+            30
+          ]
+        },
+        "Weaponattack_4": {
+          "id": "Weaponattack_4",
+          "name": "刀加攻击力",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0,
+            40
+          ]
+        },
+        "Weaponattack_5": {
+          "id": "Weaponattack_5",
+          "name": "刀加攻击力",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0,
+            50
+          ]
+        },
+        "Weaponattack_6": {
+          "id": "Weaponattack_6",
+          "name": "刀加攻击力",
+          "class": "BuffProperty",
+          "priority": 0,
+          "permanent": true,
+          "duration": 8,
+          "maxStack": 1,
+          "tickTime": 0,
+          "durationSetTo": false,
+          "param": [
+            "attack",
+            0,
+            60
+          ]
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

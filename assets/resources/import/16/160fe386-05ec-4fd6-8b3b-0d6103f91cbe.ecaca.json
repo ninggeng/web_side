@@ -1,0 +1,536 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "EndlessConfig",
+      [
+        {
+          "time": 60,
+          "interval": 2,
+          "count": 20,
+          "total": 20,
+          "monsters": [
+            "jingyingchangxigua"
+          ],
+          "weights": [
+            {
+              "weights": 75,
+              "id": "xigua"
+            },
+            {
+              "weights": 25,
+              "id": "chengzi"
+            }
+          ]
+        },
+        {
+          "time": 120,
+          "interval": 2,
+          "count": 20,
+          "total": 20,
+          "monsters": [
+            "jingyingxigua"
+          ],
+          "weights": [
+            {
+              "weights": 60,
+              "id": "xigua"
+            },
+            {
+              "weights": 40,
+              "id": "chengzi"
+            }
+          ]
+        },
+        {
+          "time": 180,
+          "interval": 2,
+          "count": 20,
+          "total": 20,
+          "monsters": [
+            "jingyingchengzi"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "chengzi"
+            },
+            {
+              "weights": 50,
+              "id": "pingguo"
+            }
+          ]
+        },
+        {
+          "time": 240,
+          "interval": 3,
+          "count": 20,
+          "total": 30,
+          "monsters": [
+            "jingyingchengzi"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "chengzi"
+            },
+            {
+              "weights": 47,
+              "id": "pingguo"
+            },
+            {
+              "weights": 3,
+              "id": "ganzhe"
+            }
+          ]
+        },
+        {
+          "time": 300,
+          "interval": 3,
+          "count": 20,
+          "total": 30,
+          "monsters": [
+            "jingyingxigua",
+            "jingyingchengzi"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "pingguo"
+            },
+            {
+              "weights": 47,
+              "id": "mangguo"
+            },
+            {
+              "weights": 3,
+              "id": "ganzhe"
+            }
+          ]
+        },
+        {
+          "time": 360,
+          "interval": 5,
+          "count": 20,
+          "total": 35,
+          "monsters": [
+            "jingyingyangtao"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "pingguo"
+            },
+            {
+              "weights": 37,
+              "id": "mangguo"
+            },
+            {
+              "weights": 8,
+              "id": "ganzhe"
+            },
+            {
+              "weights": 5,
+              "id": "yingtao"
+            }
+          ]
+        },
+        {
+          "time": 420,
+          "interval": 5,
+          "count": 20,
+          "total": 35,
+          "monsters": [
+            "jingyingyangtao"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "mangguo"
+            },
+            {
+              "weights": 42,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 8,
+              "id": "ganzhe"
+            }
+          ]
+        },
+        {
+          "time": 480,
+          "interval": 5,
+          "count": 20,
+          "total": 35,
+          "monsters": [
+            "jingyingxigua",
+            "jingyingyangtao"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "mangguo"
+            },
+            {
+              "weights": 32,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 10,
+              "id": "ganzhe"
+            },
+            {
+              "weights": 8,
+              "id": "yingtao"
+            }
+          ]
+        },
+        {
+          "time": 540,
+          "interval": 5,
+          "count": 20,
+          "total": 35,
+          "monsters": [
+            "jingyingyangtao",
+            "jingyingchengzi"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 40,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 10,
+              "id": "ganzhe"
+            }
+          ]
+        },
+        {
+          "time": 600,
+          "interval": 5,
+          "count": 20,
+          "total": 35,
+          "monsters": [
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 20,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 20,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 50,
+              "id": "ganzhe"
+            },
+            {
+              "weights": 10,
+              "id": "yingtao"
+            }
+          ]
+        },
+        {
+          "time": 660,
+          "interval": 5,
+          "count": 40,
+          "total": 40,
+          "monsters": [
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 50,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 40,
+              "id": "caomei"
+            },
+            {
+              "weights": 10,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 720,
+          "interval": 5,
+          "count": 40,
+          "total": 40,
+          "monsters": [
+            "jingyingxigua",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 50,
+              "id": "caomei"
+            },
+            {
+              "weights": 20,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 780,
+          "interval": 5,
+          "count": 40,
+          "total": 40,
+          "monsters": [
+            "jingyingchengzi",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "xigua"
+            },
+            {
+              "weights": 20,
+              "id": "chengzi"
+            },
+            {
+              "weights": 20,
+              "id": "pingguo"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 840,
+          "interval": 5,
+          "count": 40,
+          "total": 40,
+          "monsters": [
+            "jingyingyangtao",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "chengzi"
+            },
+            {
+              "weights": 20,
+              "id": "pingguo"
+            },
+            {
+              "weights": 20,
+              "id": "mangguo"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 900,
+          "interval": 5,
+          "count": 40,
+          "total": 40,
+          "monsters": [
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "pingguo"
+            },
+            {
+              "weights": 20,
+              "id": "mangguo"
+            },
+            {
+              "weights": 20,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 30,
+              "id": "yingtao"
+            }
+          ]
+        },
+        {
+          "time": 960,
+          "interval": 5,
+          "count": 40,
+          "total": 50,
+          "monsters": [
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "mangguo"
+            },
+            {
+              "weights": 20,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 20,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 1020,
+          "interval": 5,
+          "count": 40,
+          "total": 50,
+          "monsters": [
+            "jingyingxigua",
+            "jingyingchengzi",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "xiangjiao"
+            },
+            {
+              "weights": 20,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 20,
+              "id": "caomei"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 1080,
+          "interval": 5,
+          "count": 40,
+          "total": 50,
+          "monsters": [
+            "jingyingxigua",
+            "jingyingyangtao",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "mihoutao"
+            },
+            {
+              "weights": 20,
+              "id": "caomei"
+            },
+            {
+              "weights": 20,
+              "id": "xigua"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 1140,
+          "interval": 5,
+          "count": 40,
+          "total": 50,
+          "monsters": [
+            "jingyingyangtao",
+            "jingyingchengzi",
+            "jingyinghuolongguo"
+          ],
+          "weights": [
+            {
+              "weights": 30,
+              "id": "caomei"
+            },
+            {
+              "weights": 20,
+              "id": "xigua"
+            },
+            {
+              "weights": 20,
+              "id": "chengzi"
+            },
+            {
+              "weights": 30,
+              "id": "shiliu"
+            }
+          ]
+        },
+        {
+          "time": 1200,
+          "interval": 5,
+          "count": 40,
+          "total": 50,
+          "monsters": [
+            "bossboluo"
+          ],
+          "weights": [
+            {
+              "weights": 100,
+              "id": "ganzhe"
+            },
+            {
+              "weights": 100,
+              "id": "shiliu"
+            },
+            {
+              "weights": 100,
+              "id": "yingtao"
+            }
+          ]
+        }
+      ]
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

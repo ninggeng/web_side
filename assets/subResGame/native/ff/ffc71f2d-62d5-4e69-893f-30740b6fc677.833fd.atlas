@@ -1,0 +1,62 @@
+
+boss.png
+size: 1076,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_boluo_body
+  rotate: true
+  xy: 513, 2
+  size: 231, 207
+  orig: 234, 207
+  offset: 0, 0
+  index: -1
+boss_boluo_eye1
+  rotate: true
+  xy: 924, 50
+  size: 183, 67
+  orig: 186, 67
+  offset: 0, 0
+  index: -1
+boss_boluo_eye2
+  rotate: true
+  xy: 993, 50
+  size: 183, 67
+  orig: 186, 67
+  offset: 0, 0
+  index: -1
+boss_boluo_tou1
+  rotate: true
+  xy: 265, 13
+  size: 220, 246
+  orig: 220, 247
+  offset: 0, 1
+  index: -1
+boss_boluo_tou2
+  rotate: true
+  xy: 2, 13
+  size: 220, 261
+  orig: 220, 261
+  offset: 0, 0
+  index: -1
+boss_boluo_zui
+  rotate: true
+  xy: 1054, 8
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 722, 7
+  size: 200, 226
+  orig: 234, 252
+  offset: 22, 25
+  index: -1
+ty
+  rotate: false
+  xy: 924, 10
+  size: 128, 38
+  orig: 130, 40
+  offset: 1, 1
+  index: -1

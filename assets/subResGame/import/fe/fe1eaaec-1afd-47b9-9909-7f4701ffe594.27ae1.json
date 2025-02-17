@@ -1,0 +1,119 @@
+[
+  1,
+  [
+    "2fq9MzAx9Af4P5qmY7s/vt"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "feidao",
+      "\r\nfeidao.png\r\nsize: 59,17\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 59, 17\r\n  orig: 62, 21\r\n  offset: 2, 2\r\n  index: -1\r\n",
+      [
+        "feidao.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "zlemu5HRZxgYDtQQ8/B5JEBCI4Y",
+          "spine": "3.8.99",
+          "x": -31,
+          "y": -10.5,
+          "width": 62,
+          "height": 21,
+          "images": "./images/",
+          "audio": ""
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "1",
+            "parent": "root"
+          }
+        ],
+        "slots": [
+          {
+            "name": "1",
+            "bone": "1",
+            "attachment": "1"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "1": {
+                "1": {
+                  "width": 62,
+                  "height": 21
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "play": {
+            "bones": {
+              "1": {
+                "rotate": [
+                  {},
+                  {
+                    "time": 0.0667,
+                    "angle": 120
+                  },
+                  {
+                    "time": 0.1333,
+                    "angle": -120
+                  },
+                  {
+                    "time": 0.2
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]
